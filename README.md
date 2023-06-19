@@ -1,18 +1,18 @@
 <h1 align="left">Hi there, I'm Vladislav 👋</a> </h1>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000000&vCenter=true&multiline=true&width=500&lines=%F0%9F%90%8DBeginner+python+developer+from+Russia%F0%9F%90%8D" alt="Typing SVG" /></a>
 
-- 🌱 I’m currently learning **ML, CV, python, C#**
+- 🌱 I’m currently learning **MySQL, PHP, Laravel**
 
-- 📫 How to reach me **Vladsubbotin35@gmail.com**
+- 📫 How to reach me **159357tdutybz99@gmail.com**
 
 - 🌍 I speak Russian (native), English (B1)
 
-[![codewars](https://www.codewars.com/users/Vadosishe/badges/small)](https://www.codewars.com/users/Vadosishe)  
+
 
 ### Connect with me:
 <p align="left">
 <a href="https://t.me/vlvdvlvd" target="blank"><img align="center" src="https://raw.githubusercontent.com/daniilshat/daniilshat/2d7eafe5250314b3d422c86b35de062e0f1f5178/icons/Telegram.svg" alt="vlvdvlvd_telegram" height="40" width="40" /></a>
-<a href="https://vk.com/vladsubbotin99" target="blank"><img align="center" src="https://raw.githubusercontent.com/daniilshat/daniilshat/2d7eafe5250314b3d422c86b35de062e0f1f5178/icons/vk.svg" alt="vladsubbotin99_vk" height="40" width="40" /></a>
+<a href="https://vk.com/vladsubbotin99" target="blank"><img align="center" src="https://raw.githubusercontent.com/daniilshat/daniilshat/2d7eafe5250314b3d422c86b35de062e0f1f5178/icons/vk.svg" alt="https://vk.com/streetbo" height="40" width="40" /></a>
  
 ### Languages:
 <p align="left"> 
